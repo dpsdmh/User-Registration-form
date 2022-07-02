@@ -1,6 +1,4 @@
 # User-Registration-form
-This is a Registration form. This form is used for user identification.
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -11,8 +9,6 @@ This is a Registration form. This form is used for user identification.
 </head>
 
 <body>
-
-</html>
 
 <Style type="text/css">
     form{

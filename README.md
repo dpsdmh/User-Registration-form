@@ -67,15 +67,15 @@
     <form action="beckend.php">
         <div>
             <h5>
-                <label>User Name:</label> <input type="text" Name="Myname" id="Name">
+                <label>User Name:</label> <input type="text" Name="Myname" id="Name" required>
 
-                <label>Password:</label> <input type="password" name="Password" id="Password"><br>
+                <label>Password:</label> <input type="password" name="Password" id="Password" required><br>
 
-                <label>First Name:</label> <input type="text" Name="Myname" id="Name">
+                <label>First Name:</label> <input type="text" Name="Myname" id="Name" required>
 
-                <label>Last Name:</label> <input type="text" Name="Myname" id="Name"><br>
+                <label>Last Name:</label> <input type="text" Name="Myname" id="Name" required><br>
 
-                <label>Email:</label> <input type="email" name="Email" id="Email">
+                <label>Email:</label> <input type="email" name="Email" id="Email" required>
 
                 <label>Date of Birth:</label> <input type="date" name="Date" id="date"> <br>
 

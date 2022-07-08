@@ -11,6 +11,7 @@
 
 <Style type="text/css">
 body{
+display: flex;
 width: fit-content;
 }
     form{
@@ -50,9 +51,10 @@ width: fit-content;
     }
 
     body {
+    display: flex;
         margin: 20px solid rgb(rgb(95, 26, 26), green, blue);
         padding-left: 250px;
-        padding-right: 250px;
+        padding-right: 290px;
         padding-top: 100px;
         padding-bottom: 50px ;
         background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf1xQECrV5_YEq0t1lptZpNpD3Rgc_Po9MgBXSmwQnrQQ8hN-V78iqhUNlkZIVMNSTfco&usqp=CAU);

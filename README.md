@@ -10,6 +10,9 @@
 <body>
 
 <Style type="text/css">
+body{
+width: fit-content;
+}
     form{
       background-color: rgb(53, 86, 140);
     }
